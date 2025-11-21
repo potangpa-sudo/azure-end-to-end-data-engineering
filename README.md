@@ -11,7 +11,7 @@ This project implements an end-to-end data pipeline on Azure:
 
 ## Architecture
 
-![Architecture](docs/architecture.jpeg)
+![Architecture](docs/architecture.png)
 
 ## Repository Structure
 
